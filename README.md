@@ -1,4 +1,4 @@
-# Predict_MPG a Machine Learning Web App
+# Predict_MPG - a Machine Learning Web App
 A random forest ml model is built from a dataset that contains vehicle observations from 70s and 80s. A simple streamlit web application on Heroku accepts user inputs of vehicale configuration via a GUI and predicts mpg using the saved model.  
 You can test drive it by clicking on the link below:(If you do not see the user input side panel, scroll all the way to the top of the
 screen and click on the < on the top left.).  
