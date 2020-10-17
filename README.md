@@ -15,7 +15,7 @@ Data: auto-mpg.data
 1. Contents:  
     - MPGPrectionPart1&2:data collection, exploration, tranformations and cleaning. 
     - MPGPredctionart3&4:pipeline building, model selection, hyperparameter tuning and Predict functions.  
-    - MPG_APP folder: collection of files to be pushed to Heroku. 
+    - MPG_App_files: collection of files to be pushed to Heroku. 
         - Procfile: start webservice and run streamlit app. 
         - setup.sh: set up 2 streamlit toml files: credentials and config
         - car.jpg: car image used in the web app
